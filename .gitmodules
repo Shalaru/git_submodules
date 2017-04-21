@@ -1,0 +1,6 @@
+[submodule "first"]
+	path = first
+	url = https://github.com/Shalaru/git_submodules.git
+[submodule "module"]
+	path = module
+	url = https://github.com/Shalaru/spring_experiment.git
